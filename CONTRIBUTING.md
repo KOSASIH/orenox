@@ -1,0 +1,1 @@
+Orenox is an open project for the community, to contribute to this project please read the instructions contained in the Code Of Conduct.  All forms of contribution to this project will be subject to and comply with the applicable rules and regulations.
